@@ -1,14 +1,15 @@
 # cName
-Only for changing file's name with SAME SEQUENCE name that stored in .txt file
 ==============================================================================
+Only for changing file's name with SAME SEQUENCE name that stored in .txt file
+
 Using '-h' option for little help:
-*python cName.py -h*
-  BRIEF
+**python cName.py -h**
+  **BRIEF**
          It can change specify type file's name in path into new name stored in .txt
 
-  MAKESURE
+  **MAKESURE**
 	.txt file is UTF-8(without BOM)
 
-  USAGE
+  **USAGE**
 	cName  .txt  path  *.xxx
 
